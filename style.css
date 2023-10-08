@@ -1,0 +1,9 @@
+#isro{
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+nav{
+    display: block;
+    justify-content: center;
+}
